@@ -1,0 +1,120 @@
+
+Engineering Specification: Single-Wheel Manual Seeder & Hoe
+
+
+1. System Architecture & Assembly Overview
+
+The machine is a modular, walk-behind, push-type unit. A front ground wheel
+provides depth tracking and stability and drives the seed meter. A central
+chassis carries interchangeable row units (plow, seeder, cultivator), and an
+ergonomic handle assembly rises from the rear.
+
+   Direction of travel  <--
+
+                                          (Handles)
+                                             /
+              [Seed Hopper / Metering Plate]/
+                       |                   /
+    (Ground  ======[ Chassis ]============/
+     Wheel)            |
+                 [Furrow Opener]--[Drop Tube]--[Covering Blades]--(Packing Wheel)
+
+
+2. Component Specifications
+
+2.1 Main Chassis Frame
+
+* Material: 1.25 in x 1.25 in square structural steel tubing (1/8 in wall)
+  or 1.5 in x 1/4 in flat hot-rolled steel bar.
+* Length: 36 in total horizontal length.
+* Toolbar: A rear section 12 in wide, made from 1 in solid square bar or
+  heavy-duty angle iron, with 1/2 in holes on 1 in centers. This is the
+  universal hitch for tools (plow, cultivator tines, or seeder).
+* Fabrication: Welded. Gusset high-stress joints with 3/16 in triangular
+  steel plates.
+
+2.2 Ground Wheel Assembly
+
+* Diameter: 15 in to 16 in outer diameter (OD), to roll over loose, cloddy
+  tilled soil. Circumference at 15.5 in OD is about 48.7 in.
+* Width: 2.0 in to 2.5 in face width. A narrow steel rim with optional rubber
+  tread is preferred to minimize dirt buildup.
+* Axle: 5/8 in solid steel rod, threaded at both ends (5/8 in-11 UNC).
+* Bearings: Two sealed ball bearings with a 5/8 in bore, pressed into the
+  wheel hub. Example: 6203-2RS-10 (the 5/8 in bore version; a standard
+  6203-2RS has a 17 mm bore and will not fit a 5/8 in axle).
+* Drive Sprocket: A 12-tooth #35 sprocket, welded or bolted concentric to the
+  wheel hub, drives the seed meter.
+
+2.3 Handlebars
+
+* Material: 7/8 in or 1 in OD 14-gauge steel round tubing, or hardwood
+  (Ash/Hickory, 1.25 in x 1.75 in rectangular section).
+* Length: 48 in to 54 in for an upright walking posture.
+* Adjustability: Pivoting handle-to-frame bracket with a 3-hole selector
+  crescent (1/2 in pins), giving a grip height of 34 in to 44 in.
+* Grips: Rubber or foam covers, turned outward 15 degrees.
+
+
+3. Row-Unit Attachments (Interchangeable)
+
+3.1 Furrow Opener (Plow Shoe)
+
+* Material: 3/16 in AR400 abrasion-resistant steel plate.
+* Geometry: V-shaped wedge with a 30 degree entry angle.
+* Depth Control: Mounted on a vertical shank (1.25 in x 0.5 in flat bar) with
+  vertical slots, giving 0.5 in to 3.0 in depth via two 1/2 in Grade 5 bolts.
+
+3.2 Seed Hopper & Metering Plate
+
+* Hopper Capacity: 1.0 to 1.5 gallons (0.13 to 0.2 cu ft). UV-stabilized HDPE
+  or 20-gauge stainless steel. Internal walls at 45 degrees or steeper to
+  prevent seed bridging.
+* Metering Principle: Horizontal seed plate (chosen over a vertical drum).
+  The plate turns flat on the hopper floor; each cell carries one seed to a
+  single drop hole in the floor. A cutoff block above the drop hole strikes
+  off excess seed so only seeds sitting in cells pass over the hole.
+* Seed Plates: Removable, interchangeable 1/4 in acrylic or nylon plates.
+  Cell size and plate thickness are set by seed size:
+    * Small seeds (radish, carrot): 1/8 in pockets.
+    * Large seeds (corn, beans): 1/2 in pass-through cells.
+* Plate Drive: The plate has crown-gear teeth on its underside, driven by a
+  spur pinion on a jackshaft under the hopper floor (right-angle drive).
+  The jackshaft is driven from the ground-wheel sprocket by #35 roller chain.
+* Seed Spacing:
+      spacing = wheel circumference x (jackshaft sprocket teeth / 12)
+                / (plate cells x pinion teeth / plate crown teeth)
+  With a 1:1 right-angle drive and a 12T jackshaft sprocket:
+      Plate cells    In-row spacing
+           4            12.2 in
+           8             6.1 in
+          12             4.1 in
+          24             2.0 in
+  Swapping the jackshaft sprocket to 9T or 15T scales spacing by 0.75x or
+  1.25x for fine adjustment.
+
+3.3 Seed Delivery Tube & Soil Closers
+
+* Drop Tube: 1.0 in ID smooth-bore flexible vinyl or rigid clear
+  polycarbonate, mounted directly behind the furrow opener boot.
+* Covering Blades: Twin adjustable trailing steel wings (1/8 in plate) set at
+  a 45 degree inward angle to drag loose soil back into the furrow.
+* Packing Wheel: Rear-mounted 5 in diameter, 2 in wide steel roller weighing
+  about 4 to 6 lb, to firm soil over the seed for good seed-to-soil contact.
+
+3.4 Cultivator Tines & Scuffle Hoe (Alternative Module)
+
+* Weeding Blade: Oscillating "scuffle" or "stirrup" hoe of spring steel,
+  sharpened on front and rear edges (8 in or 10 in cutting width).
+* Cultivating Teeth: Three curved spring-steel tines (3/8 in square rod)
+  with reversible shovel points for breaking crusted soil.
+
+
+4. Hardware and Tolerances
+
+* Fasteners: Grade 5 or higher, zinc-plated or stainless. Standardize on
+  3/8 in-16 and 1/2 in-13 sizes.
+* Tolerances:
+    * Wheel axle alignment: +/- 0.03 in perpendicularity to the frame.
+    * Seed plate cell clearance: +0.010 in / -0.000 in, so seeds are not
+      pinched or jammed against the hopper floor.

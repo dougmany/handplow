@@ -1,0 +1,3 @@
+# Generated print files: export from scad/print_parts.scad
+*.stl
+*.3mf
